@@ -1,6 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+/*Blanca Da Costa Gomez Carcamo
+ * Descripcion: la clase instituto permite la declaracion del nombre y direccion de la Universidad donde gestionaremos la matricula cual nos facilicita al llamarla a la clase principal
+ * 
  */
 package com.mycompany.sistemamatricula;
 
