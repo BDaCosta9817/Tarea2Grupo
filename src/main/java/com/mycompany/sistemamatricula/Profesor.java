@@ -1,13 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.mycompany.sistemamatricula;
+//Copyrigth: Ruth Elizabeth Bautista
+// Clase que guarda la información de un profesor: nombre y especialidad.
+// Tiene métodos para obtener esos datos y mostrar la información del profesor.
 
-/**
- *
- * @author UserCP
- */
+package com.mycompany.sistemamatricula;
 
 
 public class Profesor {
