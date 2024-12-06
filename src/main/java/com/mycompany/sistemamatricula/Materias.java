@@ -1,13 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.mycompany.sistemamatricula;
+//Copyrigth: Ruth Elizabeth Bautista
+// Esta clase representa una materia, con su nombre, lista de profesores y horarios.
+// Permite agregar profesores y horarios, y obtener la información de la materia.
 
-/**
- *
- * @author UserCP
- */
+package com.mycompany.sistemamatricula;
 
 
 import java.util.ArrayList;
