@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * Blanca Da Costa Gomez Carcamo
+ * Descripcion: la clase inscripcion permite la declaracion y union de cada unos de los apectos que presentaremos en la funcion principal
  */
 package com.mycompany.sistemamatricula;
 
