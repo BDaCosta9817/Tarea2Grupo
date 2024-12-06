@@ -8,8 +8,8 @@ package com.mycompany.sistemamatricula;
  *
  * @author Luis Fernando Ayala Mendoza
  */ 
-//Atributos de la clase
 public class Estudiante {
+    // Atributos de la clase 
     private final String nombre;
     private final int edad;
     private final String genero;
