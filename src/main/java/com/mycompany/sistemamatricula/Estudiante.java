@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ *Fernando Mendoza
+ *Descripcion:esta es nuestra superClase la cual contiene los metodos y atributos para obtener la informacion de nuestro usuario
  */
 package com.mycompany.sistemamatricula;
 
